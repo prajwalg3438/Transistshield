@@ -1,0 +1,7 @@
+{
+  "name": "TransitShield - Smart & Accessible Transit",
+  "description": "Smart and Accessible Public Transportation System that helps commuters choose journeys by risk, not just travel time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
